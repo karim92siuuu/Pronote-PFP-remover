@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "pronote",
+    "description": "pronote img",
+    "version": "0.0.1",
+    "content_scripts": [
+        {
+        "matches": ["https://0921166t.index-education.net/*"],
+        "css":["StyleVA.css"]
+        }],
+    "icons": {
+    "128": "128.png",
+	"16": "16.png",
+	"32": "32.png",
+	"48": "48.png"
+    },
+    "permissions": [
+        "activeTab",
+        "notifications",
+        "tabs"
+    ]
+}
