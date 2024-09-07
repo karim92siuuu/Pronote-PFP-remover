@@ -1,5 +1,5 @@
 # Pronote PFP Remover
-Extension pour retirer sa photos de profile sur pronote. 👍
+Extension pour retirer sa photo de profile sur pronote. 👍
 ## Installation
 
 Installez l'extension et empaquetez la dans le gestionnaire d'extension.
